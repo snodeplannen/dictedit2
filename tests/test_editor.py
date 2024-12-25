@@ -1,5 +1,5 @@
 import unittest
-from dictedit2.editor import DataEditor
+from dictedit2.core.editor import DataEditor
 import tkinter as tk
 
 class TestDataEditor(unittest.TestCase):

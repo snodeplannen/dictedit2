@@ -1,5 +1,5 @@
 import tkinter as tk
-from dictedit2.renderers.base import CustomDataTypeRenderer as DataTypeRenderer, CustomDataTypeRenderer
+from dictedit2.components.base import CustomDataTypeRenderer
 
 
 class DictRendererCustom(CustomDataTypeRenderer):
